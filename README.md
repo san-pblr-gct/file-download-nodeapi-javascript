@@ -7,7 +7,7 @@ To run the api (will be running using npm)
 
 To run the client
 1. Install parcel bundler if you dont have already using the below command.
-    npm install parcel -g
+    npm install  -g parcel-bundler
 2. Then run the application using the below command
     parcel index.html
 
